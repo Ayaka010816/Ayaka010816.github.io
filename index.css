@@ -17,9 +17,11 @@ width:100%;
 p {
   color: white;
 }
-a {
-    color:white;
+a.futoji {
+font-weight: bold;
+color: green;
 }
+
 #logo img{
 　　float:left;
 }
@@ -41,9 +43,7 @@ a {
 section {
   padding: 30px 20px;
 }
-futoji {
-font-weight: bold;
-}
+
 footer {
   padding-top: 20px
 }
